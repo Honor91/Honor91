@@ -4,6 +4,28 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<!--Night Owl image-->
+<div>
+  <img align="right" width="30%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+<!--Header Name-->
+ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Antony! 
+*Data Analyst (Dashboards/ Machine Learning)*
+<br /> 
+
+<!--Start Intro-->               
+<p align="left">I am a Data Analyst and Machine Learning Enthusiast with a huge love for Python Data Visualization. </p>
+
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+
+
+
+
+<!--End Intro-->
+
+
 ## Join the Community Word Cloud :cloud: :pencil2:
 
 ![](https://img.shields.io/badge/Words%20Added-188-brightgreen?labelColor=7D898B)
